@@ -4,8 +4,8 @@ from falconpy import IOC
 
 # Hardcoded credentials
 credentials = {
-    'client_id': "442e875bdf584df8abc4d6f7e119bb75",
-    'client_secret': "MGKV2J16IClDR3ui8q507o4pLHceZznNQy9Fxasf"
+    'client_id': "replace with your id",
+    'client_secret': "replace with your password"
 }
 
 def connect_api(creds: dict):
