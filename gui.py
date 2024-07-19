@@ -18,8 +18,8 @@ style.set_theme("clearlooks")
 # FalconPy client for host details
 hosts = Hosts(
     creds={
-        "client_id": "442e875bdf584df8abc4d6f7e119bb75",
-        "client_secret": "MGKV2J16IClDR3ui8q507o4pLHceZznNQy9Fxasf",
+        "client_id": "replace",
+        "client_secret": "replace",
     },
     base_url="https://api.us-2.crowdstrike.com",
 )
